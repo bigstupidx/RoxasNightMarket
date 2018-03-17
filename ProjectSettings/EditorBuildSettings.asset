@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LogoScene.unity
+    guid: b1c4763a9205fa148b5dab9bd0346201
+  - enabled: 1
+    path: Assets/Scenes/PreparationScene.unity
+    guid: 722c0bf99d7c0c64595c4b5148bae682
+  - enabled: 1
+    path: Assets/Scenes/DaySimulationScene.unity
+    guid: bab4edabf6e407c439b7c04cbaeb46ad
+  - enabled: 1
+    path: Assets/Scenes/PurchaseScene.unity
+    guid: c9cc999fe28bde14e92a044d883821eb
+  - enabled: 1
+    path: Assets/Scenes/MainScreenScene.unity
+    guid: abcb8e7fb14306c40bf5b3e79f989839
+  - enabled: 1
+    path: Assets/Scenes/UnlockedScene.unity
+    guid: 485fdabfadc56f54186293f76c631e48
+  - enabled: 1
+    path: Assets/Scenes/StartStoryScene.unity
+    guid: 112041372633ca547a12ab39c8b2b157
+  - enabled: 1
+    path: Assets/Scenes/TutorialPreparationScene.unity
+    guid: 685da4d2671fd9c46bc9953066e65151
+  - enabled: 1
+    path: Assets/Scenes/TutorialPurchaseScene.unity
+    guid: dcbdbb187fb55a1438adf2676fc67356
+  - enabled: 1
+    path: Assets/Scenes/UnlockedCustomerScene.unity
+    guid: 8a2e6f680b879ea4f9965cfbb4f1a363
+  - enabled: 1
+    path: Assets/Scenes/GoodEndingScene.unity
+    guid: c550aeef1c531794db0587511515f20b
+  - enabled: 1
+    path: Assets/Scenes/CustomersScene.unity
+    guid: 67b0a47ecf711ff4b861fae8a6cc3a7f
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: 3156f34ad1fb6f54ab298af2aa384daa
+  - enabled: 1
+    path: Assets/Scenes/LoseScene.unity
+    guid: 3919ba6a3b3d9964cb05582c693ebf74
+  - enabled: 1
+    path: Assets/Scenes/CreditsScene.unity
+    guid: 08a2563996331d3478566794867ff4e8

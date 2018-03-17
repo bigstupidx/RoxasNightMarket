@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Customer
+  - Stall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Customer
+  - Stall
+  - EmptyStall
+  - Upgrade
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 999487965
+    locked: 0
+  - name: StallBackground
+    uniqueID: 318394207
+    locked: 0
+  - name: Stall
+    uniqueID: 855829277
+    locked: 0
+  - name: StallForground
+    uniqueID: 2168073459
+    locked: 0
+  - name: Customer
+    uniqueID: 3728063541
+    locked: 0
+  - name: StallBubble
+    uniqueID: 2932888189
+    locked: 0
+  - name: Bubble
+    uniqueID: 1257248995
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
